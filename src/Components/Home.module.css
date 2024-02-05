@@ -1,0 +1,9 @@
+.homeContainer{
+    height: 500px;
+    width: 500px;
+    background-color: blue;
+}
+
+.button{
+    margin-top:200px;
+}
